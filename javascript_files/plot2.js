@@ -18,6 +18,6 @@ var trace1 = {
 var layout = {
     title: 'Percent of land area used for <br> Agriculture in 2015'
 };
-
+//plot
 var data = [trace1];
 Plotly.newPlot('plot2', data, layout);
